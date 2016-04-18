@@ -17,6 +17,6 @@ c) then open it from home screen
 This code makes it fullscreen on webkit (this one works on android too i tried it once)
 <meta name="apple-mobile-web-app-capable" content="yes">
 
-Check out the code.
+Check out the code...
 
 Thanks!
